@@ -128,7 +128,7 @@ manually?"
 Several reasons:
 
 First, as we've just done, it was entirely possible for us as a user
-of the module to completely change the internal representation. 
+of the module to completely change the internal representation.
 Imagine what would happen for a more complex module that allowed us to
 break an invariant! From Problem Set 3, what would break if a person
 could change a zero bignum to also set the negative flag? Or pass a
